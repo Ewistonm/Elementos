@@ -33,15 +33,10 @@
 .container-menu {
     display: none;
   }
-  #checkbox-menu{
-    display: none;
-  }
 }
 
 
 @media (max-width: 1080px) {
-
-
 
   .controls input{
     width: 100%;
