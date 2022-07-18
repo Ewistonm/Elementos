@@ -33,6 +33,9 @@
 .container-menu {
     display: none;
   }
+  #checkbox-menu{
+    display: none;
+  }
 }
 
 
