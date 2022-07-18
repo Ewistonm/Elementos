@@ -29,7 +29,7 @@
 
 }
 
-@media (min-height:631px) {
+@media (min-width:631px) {
 .container-menu {
     display: none;
   }
